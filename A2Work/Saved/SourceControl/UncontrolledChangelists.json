@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kayn/Documents/A2Work/Content/UI/KeyOverlay.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/UI/W_KeyOverlay.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Blueprints/BP_Button.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Level/GameMap.umap",
+				"C:/Users/Kayn/Documents/A2Work/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Blueprints/BP_Key.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Blueprints/BP_Door.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Blueprints/BP_MovingPlatform.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/imported/Key.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/imported/freesound_community-ding-36029_1_.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/imported/FX_KeyCollect.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/applejuicegfx.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/applejuicetext_color.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Blueprints/BP_MovingUp.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Blueprints/BP_Win.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/imported/DingCue.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/grapejuice.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/grapejuicetext_color.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Low_Poly_Key/key.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/imported/make_more_sound-8-bit-video-game-win-level-sound-version-1-145827_1_.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Low_Poly_Key/Material_001.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milk_and_juice_sketchfab.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milk_color.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milk_normal.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milk_normal1.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milk_normal12.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milk_normal123.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milk_normal1234.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milkmat.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milktext_color.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/milktextmat.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Blueprints/NS_WIn.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/orangejuicemat_001.uasset",
+				"C:/Users/Kayn/Documents/A2Work/Content/Fab/Milks_and_some_juices/orangejuicetext_color.uasset",
+				"E:/s5423801/A2Work/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/s5423801/A2Work/Content/Blueprints/GM_MainMenu.uasset",
+				"E:/s5423801/A2Work/Content/Level/MainMenu.umap",
+				"E:/s5423801/A2Work/Content/Level/GameMap.umap",
+				"E:/s5423801/A2Work/Content/UI/W_MainMenu.uasset",
+				"E:/s5423801/A2Work/Content/UI/W_PauseScreen.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+[0430/095026.258:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0430/140034.034:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0430/140034.045:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0430/140039.051:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0430/140039.053:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0430/175406.364:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0430/175407.180:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0430/175409.011:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0430/175409.051:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0430/175409.114:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
