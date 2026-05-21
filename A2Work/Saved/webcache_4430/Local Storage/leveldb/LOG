@@ -1,2 +1,3 @@
-2026/04/30-09:48:25.229 5464 Creating DB C:/Users/Kayn/Documents/A2Work/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/30-09:48:25.243 5464 Reusing MANIFEST C:/Users/Kayn/Documents/A2Work/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-11:38:42.549 568 Reusing MANIFEST C:/Users/Kayn/Documents/GitHub/a2programming/A2Work/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-11:38:42.555 568 Recovering log #3
+2026/05/20-11:38:42.560 568 Reusing old log C:/Users/Kayn/Documents/GitHub/a2programming/A2Work/Saved/webcache_4430\Local Storage\leveldb/000003.log 
